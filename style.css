@@ -1,10 +1,6 @@
-.container {
-    max-width: 500px;
-    margin: auto;
-}
-
-#resultado {
-    font-size: 1.2rem;
-    font-weight: bold;
-    text-align: center;
-}
+<style>
+    body {
+        background-image: url('https://cdn.culturagenial.com/imagens/quadro-a-noite-estrelada-de-vincent-van-gogh-og.jpg');
+        background-size: cover;
+    }
+</style>
