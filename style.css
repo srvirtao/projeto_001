@@ -3,4 +3,10 @@
         background-image: url('https://cdn.culturagenial.com/imagens/quadro-a-noite-estrelada-de-vincent-van-gogh-og.jpg');
         background-size: cover;
     }
+    
+    /* adicionando classes do Bootstrap para o body */
+    body {
+        padding-top: 5rem;
+        font-family: sans-serif;
+    }
 </style>
